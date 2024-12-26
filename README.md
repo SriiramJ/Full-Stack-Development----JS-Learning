@@ -46,11 +46,24 @@ Welcome to the **JavaScript Learning Journey** repository! This repo contains an
 8. [ES6 Modules and CommonJS](./advanced/modules.md)
 9. [Quiz on Advanced Topics](./advanced/quiz8.md)
 
+### **5. Coding Exercises**
+1. [Coding Exercise : Playing with Types](./exercises/exercise30.md)
+2. [Coding Exercise : Playing with Variables](./exercises/exercise31.md)
+3. [Coding Exercise : Arrays and Methods](./exercises/exercise32.md)
+4. [Coding Exercise : Loops](./exercises/exercise33.md)
+5. [Coding Exercise : Higher-Order Functions and Arrow Functions](./exercises/exercise34.md)
+6. [Coding Exercise : Nested Functions and Context](./exercises/exercise35.md)
+7. [Coding Exercise : Prototypes in JavaScript](./exercises/exercise36.md)
+8. [Coding Exercise : Functional Constructor and Errors](./exercises/exercise37.md)
+9. [Coding Exercise : Classes, Objects, and Inheritance](./exercises/exercise38.md)
+10. [Coding Exercise : Encapsulation, Polymorphism, Abstraction, and Getters/Setters](./exercises/exercise39.md)
+
 ---
 
 ## How to Use This Repository
 
 1. **Clone the Repository**
+   
 
 2. **Follow the Sections**
    Each folder contains markdown files and corresponding code examples for learning and practice.
