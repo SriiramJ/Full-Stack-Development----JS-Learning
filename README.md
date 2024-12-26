@@ -51,10 +51,6 @@ Welcome to the **JavaScript Learning Journey** repository! This repo contains an
 ## How to Use This Repository
 
 1. **Clone the Repository**
-   ```bash
-   git clone https://github.com/yourusername/javascript-learning-journey.git
-   cd javascript-learning-journey
-   ```
 
 2. **Follow the Sections**
    Each folder contains markdown files and corresponding code examples for learning and practice.
